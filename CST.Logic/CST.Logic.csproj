@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CST.Common\CST.Common.csproj" />
+    <ProjectReference Include="..\CST.FakeData\CST.FakeData.csproj" />
+  </ItemGroup>
+
+</Project>
